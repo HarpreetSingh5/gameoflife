@@ -1,4 +1,4 @@
-export const grid_size = 80;
+export const grid_size = 50;
 export const GENERATION_TIME = 200;
 export const alive = 1;
 export const dead = 0;
